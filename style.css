@@ -1,0 +1,22 @@
+body{
+    background-color: crimson;
+}
+h1{
+    
+    position: fixed;
+    top: 10px;
+    right: 5px;
+    color: aliceblue;
+    background-color: black;
+    font-size: 200%;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+#primeiro{
+    color: aliceblue;
+    font-size: 150%;text-align: center;
+    background-color: darkred;
+}
+p{
+    text-size-adjust: 100px;
+}
